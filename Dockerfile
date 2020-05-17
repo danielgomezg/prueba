@@ -1,4 +1,4 @@
-FROM java: 8
+FROM openjdk:8
  LABEL mantenedor = “danygb1000@gmail.com”
  VOLUMEN / tmp
  EXPOSE 5000
