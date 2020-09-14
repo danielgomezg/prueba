@@ -18,7 +18,7 @@ public class Estudiante {
 
     private Date fechaNacimiento;
 
-    private String carrera;
+    private String carrera ;
 
     public String getRut() {
         return rut;
